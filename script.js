@@ -1,5 +1,5 @@
 //your JS code here. If required.
 
-document.addEventListener("DOMContentLoaded", (){
-	console.log("DOM is fully loaded!");
+document.addEventListener("DOMContentLoaded", function () {
+      console.log("DOM load success");
 });
